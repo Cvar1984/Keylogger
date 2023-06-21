@@ -1,0 +1,5 @@
+IADD:00000000:/keylog.exe
+IDSET:/keylog.exe:7f0119193505074316263688
+IADD:00000001:/KeyLogger.exe
+IDSET:/KeyLogger.exe:7f011aec5505239147640996
+IDEL:/keylog.exe
